@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Anti Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="Filmes | Lancamentos",Anti Amor
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="Filmes - Lancamentos",Anti Amor
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/913189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apresuntado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="Filmes | Lancamentos",Apresuntado
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="Filmes - Lancamentos",Apresuntado
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/913188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barra Nova" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="Filmes | Lancamentos",Barra Nova
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="Filmes - Lancamentos",Barra Nova
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/913187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cáustico" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/93GPoFaEbb0MaF8i7Qp05ykr5eK.jpg" group-title="Filmes | Lancamentos",Cáustico
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93GPoFaEbb0MaF8i7Qp05ykr5eK.jpg" group-title="Filmes - Lancamentos",Cáustico
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/913186.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crônica de uma Cidade Partida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9wtWMLQfKlMIjee1GhpGz3F2j2U.jpg" group-title="Filmes | Lancamentos",Crônica de uma Cidade Partida
 http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/913185.mp4
